@@ -21,4 +21,4 @@ You can open a client named tomer and send a message to ortal
 * GUI --> client and server interfaces
 
 Excample of the board game:
-![ex game](https://user-images.githubusercontent.com/44768171/50734645-8aa9b100-11aa-11e9-984f-d4787c037e8a.png)
+![ex game](https://github.com/tomerr1212/Tikshort-Matala4/blob/master/chatExample.png)
